@@ -16,3 +16,10 @@ Express
 ## Installation
 
 Clone, run npm install, then npm run start
+
+
+## Video walkthrough
+
+![routes](/vids/apiroutes.mp4)
+
+![insomnia](/vids/insomnia.mp4)
